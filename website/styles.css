@@ -1,0 +1,176 @@
+body {
+    background-color:#192231;
+}
+
+.container {
+    width:100%;
+    max-width:1000px;
+    margin:auto;
+    background-color: white;
+    height: 1200px;
+}
+
+
+.container2 {
+    width:100%;
+    max-width:1000px;
+    margin:auto;
+    background-color: white;
+    height: 3400px;
+}
+
+.container3 {
+    width:100%;
+    max-width:1000px;
+    margin:auto;
+    background-color: white;
+    height: 850px;
+}
+
+.header {
+    width: 1000px;
+    height: 70px;
+    background-color: #192231;
+    padding-top:30px;
+}
+
+.headerleft {
+    width: 50%;
+    float: left;
+}
+
+
+.headerright {
+    width: 50%;
+    float: right;
+}
+
+.logo {
+    font-family: 'Questrial', sans-serif;
+    color: aliceblue;
+    font-size: 42px;
+}
+
+.fb {
+    width: 40px;
+    float: right;
+}
+
+.nav{
+    width: 100%;
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    padding-bottom: 20px;
+}
+
+
+.navli {
+    float: left;
+    list-style-type: none;
+}
+
+.navlinks {
+
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.tony {
+    width: 100%;
+}
+
+.bottom {
+    width: 1000px;
+    height: 500px;
+}
+
+
+
+.bottomleftt{
+    float: left;
+    width: 50%;
+}
+
+.bottomright {
+    float: right;
+    width: 50%
+}
+.main_content {
+    margin: 20px;
+    float:left;
+    padding-left: 40px;
+}
+
+.dad {
+     padding-top: 75px;
+     float: right;
+     height: 470px;
+     padding-right: 50px;
+
+ }
+
+.review {
+    padding-top: 75px;
+    float: right;
+    padding-right: 50px;
+
+}
+
+.revmain {
+    padding-top: 50px;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    display: inline;
+
+
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    display: inline;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    background-color: #192231;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+}
+
+input[type=submit]:hover {
+    background-color: lightgrey;
+}
+
+.thiscontainer {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+li {
+    font-family: 'Quicksand', sans-serif;
+
+}
